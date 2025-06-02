@@ -100,7 +100,7 @@ body {
     color: var(--cor-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     cursor: pointer;
     background-color:var(--cor-hover);
     padding: 3%;
